@@ -1,8 +1,8 @@
 {
-  "name": "gulp-handlebars-strip-comments",
+  "name": "gulp-handlebars-clean",
   "version": "0.0.1",
   "description": "Removes comments from handlebars templates",
-  "repository": "kopfwelt/gulp-handlebars-strip-comments",
+  "repository": "kopfwelt/gulp-handlebars-clean",
   "license": "MIT",
   "author": {
     "name": "Steve Sinnwell",
